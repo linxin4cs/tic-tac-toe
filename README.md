@@ -1,2 +1,2 @@
 # Tic Tac Toe
-The official guid project realized by my self.
+The [React official guid project](https://react.dev/learn/tutorial-tic-tac-toe) realized by my self.
